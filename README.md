@@ -2,7 +2,7 @@
 
 James Madison University Women In Technology Website
 
-Click [here]() to view our website!
+Click [here](https://weikleda.github.io/jmuwit) to view our website!
 
 ## Authors
 
